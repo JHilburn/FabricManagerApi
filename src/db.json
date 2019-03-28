@@ -1,0 +1,229 @@
+{
+  "fabrics": [
+    {
+      "id": 424,
+      "description": "Italian Pique - White",
+      "sku": "PL8",
+      "category": "Knits",
+      "active": true,
+      "inventory": 100,
+      "imgUrl": "https://jhilburn.com/imageserver.ashx?w=100&h=100&s=PL8&n=swatch.jpg"
+    },
+    {
+      "id": 618,
+      "description": "Heather Grey Pindot Texture",
+      "sku": "T72",
+      "category": "Shirts",
+      "active": true,
+      "inventory": 100,
+      "imgUrl": "https://jhilburn.com/imageserver.ashx?w=100&h=100&s=T72&n=swatch.jpg"
+    },
+    {
+      "id": 47,
+      "description": "Red Stripe Tech Poly",
+      "sku": "TP11-TEE",
+      "category": "Knits",
+      "active": true,
+      "inventory": 100,
+      "imgUrl": "https://jhilburn.com/imageserver.ashx?w=100&h=100&s=TP11-TEE&n=swatch.jpg"
+    },
+    {
+      "id": 119,
+      "description": "White Brushed Cotton",
+      "sku": "BC1-TEE",
+      "category": "Knits",
+      "active": true,
+      "inventory": 100,
+      "imgUrl": "https://jhilburn.com/imageserver.ashx?w=100&h=100&s=BC1-TEE&n=swatch.jpg"
+    },
+    {
+      "id": 233,
+      "description": "Lavender Refined Banker Stripe",
+      "sku": "S24",
+      "category": "Shirts",
+      "active": true,
+      "inventory": 100,
+      "imgUrl": "https://jhilburn.com/imageserver.ashx?w=100&h=100&s=S24&n=swatch.jpg"
+    },
+    {
+      "id": 571,
+      "description": "White/Blue Mini Check",
+      "sku": "R38",
+      "category": "Shirts",
+      "active": true,
+      "inventory": 100,
+      "imgUrl": "https://jhilburn.com/imageserver.ashx?w=100&h=100&s=R38&n=swatch.jpg"
+    },
+    {
+      "id": 800,
+      "description": "Berry Medium Wale Corduroy",
+      "sku": "J4A-T",
+      "category": "Trousers",
+      "active": true,
+      "inventory": 100,
+      "imgUrl": "https://jhilburn.com/imageserver.ashx?w=100&h=100&s=J4A-T&n=swatch.jpg"
+    },
+    {
+      "id": 125,
+      "description": "Navy/Blue Large Check",
+      "sku": "C65",
+      "category": "Shirts",
+      "active": true,
+      "inventory": 100,
+      "imgUrl": "https://jhilburn.com/imageserver.ashx?w=100&h=100&s=C65&n=swatch.jpg"
+    },
+    {
+      "id": 506,
+      "description": "Charcoal Mouline with Rust Deco",
+      "sku": "J8Y-S",
+      "category": "Sportcoats",
+      "active": true,
+      "inventory": 100,
+      "imgUrl": "https://jhilburn.com/imageserver.ashx?w=100&h=100&s=J8Y-S&n=swatch.jpg"
+    },
+    {
+      "id": 182,
+      "description": "White/Navy/Blue Multi Print",
+      "sku": "Q52",
+      "category": "Shirts",
+      "active": true,
+      "inventory": 100,
+      "imgUrl": "https://jhilburn.com/imageserver.ashx?w=100&h=100&s=Q52&n=swatch.jpg"
+    },
+    {
+      "id": 360,
+      "description": "Purple/Graphite Mélange Stripe Performance Jersey",
+      "sku": "PR21",
+      "category": "Knits",
+      "active": true,
+      "inventory": 100,
+      "imgUrl": "https://jhilburn.com/imageserver.ashx?w=100&h=100&s=PR21&n=swatch.jpg"
+    },
+    {
+      "id": 617,
+      "description": "Heather Grey/Lavender Multi Check",
+      "sku": "T71",
+      "category": "Shirts",
+      "active": true,
+      "inventory": 100,
+      "imgUrl": "https://jhilburn.com/imageserver.ashx?w=100&h=100&s=T71&n=swatch.jpg"
+    },
+    {
+      "id": 99,
+      "description": "Cobalt Blue Tech Poly",
+      "sku": "TP6-HEN",
+      "category": "Knits",
+      "active": true,
+      "inventory": 100,
+      "imgUrl": "https://jhilburn.com/imageserver.ashx?w=100&h=100&s=TP6-HEN&n=swatch.jpg"
+    },
+    {
+      "id": 712,
+      "description": "Charcoal Revenge Solid",
+      "sku": "A1C-T",
+      "category": "Trousers",
+      "active": true,
+      "inventory": 100,
+      "imgUrl": "https://jhilburn.com/imageserver.ashx?w=100&h=100&s=A1C-T&n=swatch.jpg"
+    },
+    {
+      "id": 884,
+      "description": "Black Twill Solid",
+      "sku": "A9B-P",
+      "category": "Formal",
+      "active": true,
+      "inventory": 100,
+      "imgUrl": "https://jhilburn.com/imageserver.ashx?w=100&h=100&s=A9B-P&n=swatch.jpg"
+    },
+    {
+      "id": 555,
+      "description": "Non-Iron White Herringbone",
+      "sku": "NI22",
+      "category": "Shirts",
+      "active": true,
+      "inventory": 100,
+      "imgUrl": "https://jhilburn.com/imageserver.ashx?w=100&h=100&s=NI22&n=swatch.jpg"
+    },
+    {
+      "id": 825,
+      "description": "Burgundy/Blue Check",
+      "sku": "G2H-S",
+      "category": "Sportcoats",
+      "active": true,
+      "inventory": 100,
+      "imgUrl": "https://jhilburn.com/imageserver.ashx?w=100&h=100&s=G2H-S&n=swatch.jpg"
+    },
+    {
+      "id": 905,
+      "description": "Non-Iron Blue Gingham Texture",
+      "sku": "NI91",
+      "category": "Shirts",
+      "active": true,
+      "inventory": 100,
+      "imgUrl": "https://jhilburn.com/imageserver.ashx?w=100&h=100&s=NI91&n=swatch.jpg"
+    },
+    {
+      "id": 303,
+      "description": "Blue Textured Fine Line",
+      "sku": "X26",
+      "category": "Shirts",
+      "active": true,
+      "inventory": 100,
+      "imgUrl": "https://jhilburn.com/imageserver.ashx?w=100&h=100&s=X26&n=swatch.jpg"
+    },
+    {
+      "id": 61,
+      "description": "Light Grey Melange Tech Poly",
+      "sku": "TP4-HEN",
+      "category": "Knits",
+      "active": true,
+      "inventory": 100,
+      "imgUrl": "https://jhilburn.com/imageserver.ashx?w=100&h=100&s=TP4-HEN&n=swatch.jpg"
+    },
+    {
+      "id": 731,
+      "description": "Storm Blue w/Blue Accent",
+      "sku": "G1L-S",
+      "category": "Sportcoats",
+      "active": true,
+      "inventory": 100,
+      "imgUrl": "https://jhilburn.com/imageserver.ashx?w=100&h=100&s=G1L-S&n=swatch.jpg"
+    },
+    {
+      "id": 440,
+      "description": "Rust/Charcoal Mélange Graphic Check",
+      "sku": "W83",
+      "category": "Shirts",
+      "active": true,
+      "inventory": 100,
+      "imgUrl": "https://jhilburn.com/imageserver.ashx?w=100&h=100&s=W83&n=swatch.jpg"
+    },
+    {
+      "id": 414,
+      "description": "Storm Blue Performance Jersey",
+      "sku": "PR20-Tee",
+      "category": "Knits",
+      "active": true,
+      "inventory": 100,
+      "imgUrl": "https://jhilburn.com/imageserver.ashx?w=100&h=100&s=PR20-Tee&n=swatch.jpg"
+    },
+    {
+      "id": 433,
+      "description": "Navy Italian Pique",
+      "sku": "PL26",
+      "category": "Knits",
+      "active": true,
+      "inventory": 100,
+      "imgUrl": "https://jhilburn.com/imageserver.ashx?w=100&h=100&s=PL26&n=swatch.jpg"
+    },
+    {
+      "id": 878,
+      "description": "Bright Petrol/Brown Check",
+      "sku": "LP67-S",
+      "category": "Sportcoats",
+      "active": true,
+      "inventory": 100,
+      "imgUrl": "https://jhilburn.com/imageserver.ashx?w=100&h=100&s=LP67-S&n=swatch.jpg"
+    }
+  ]
+}
