@@ -1,7 +1,7 @@
 ## JHilburn Fabric Manager
 
 ### Task
-Create a farbric management application using C# and optionally javascript that integrates with our fabric api. Features include but are not limited to:
+Create a fabric management application using C# and optionally javascript that integrates with our fabric api. Features include but are not limited to:
 
 * Display a list of available fabrics
 * Add/Update fabrics
