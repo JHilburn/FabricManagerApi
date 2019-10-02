@@ -10,7 +10,9 @@ pids
 *.pid.lock
 
 # Dependency directories
+dist/
 node_modules/
 
 # Optional npm cache directory
 .npm
+.apikey

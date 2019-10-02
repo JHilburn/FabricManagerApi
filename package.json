@@ -2,14 +2,24 @@
   "name": "fabric-manager-api",
   "version": "1.0.0",
   "description": "Fabric Manager API",
-  "main": "./src/server.js",
+  "main": "src/server.js",
   "scripts": {
-    "start": "node ./src/server.js"
+    "build": "babel src -d dist",
+    "start": "nodemon --exec babel-node src/server.js"
   },
   "private": true,
   "author": "JHilburn Tech",
   "license": "ISC",
   "devDependencies": {
-    "json-server": "^0.14.2"
+    "@babel/cli": "^7.6.2",
+    "@babel/core": "^7.6.2",
+    "@babel/node": "^7.6.2",
+    "@babel/preset-env": "^7.6.2",
+    "json-server": "^0.14.2",
+    "nodemon": "^1.19.3"
+  },
+  "dependencies": {
+    "helmet": "^3.21.1",
+    "uuid": "^3.3.3"
   }
 }
