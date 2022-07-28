@@ -5,7 +5,7 @@
   "main": "src/server.js",
   "scripts": {
     "build": "babel src -d dist",
-    "start": "nodemon --exec babel-node src/server.js"
+    "start": "babel-node src/server.js"
   },
   "private": true,
   "author": "JHilburn Tech",
